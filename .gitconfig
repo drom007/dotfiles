@@ -1,6 +1,6 @@
 [user]
-  name = Jeff Geerling
-  email = geerlingguy@mac.com
+  name = Roman Pashin
+  email = rpashin@intermedia.net
 [core]
   editor = vi
   excludesfile = ~/.gitignore
@@ -27,4 +27,5 @@
   cam = commit -am
   d = diff
   dc = diff --cached
+  s = status
   l = log --graph --pretty=format:"%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset" --abbrev-commit
